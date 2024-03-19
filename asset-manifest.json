@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.438668ce.css",
+    "main.css": "./static/css/main.bd8ff2f0.css",
     "main.js": "./static/js/main.9b4562b7.js",
     "static/media/banner-phones.png": "./static/media/banner-phones.b4eeda8bd82b712057a2.png",
     "static/media/Inter-italic.var.woff2?v=3.19": "./static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
@@ -21,11 +21,11 @@
     "static/media/arrow_left.svg": "./static/media/arrow_left.82296ac57e25126d6be0f320e15e71c2.svg",
     "static/media/arrow_right.svg": "./static/media/arrow_right.926ef91f35dd351f75c5cfa059ee3d27.svg",
     "static/media/arrow_up.svg": "./static/media/arrow_up.04fca88714a73cac504a6ecbe5acb63d.svg",
-    "main.438668ce.css.map": "./static/css/main.438668ce.css.map",
+    "main.bd8ff2f0.css.map": "./static/css/main.bd8ff2f0.css.map",
     "main.9b4562b7.js.map": "./static/js/main.9b4562b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.438668ce.css",
+    "static/css/main.bd8ff2f0.css",
     "static/js/main.9b4562b7.js"
   ]
 }
